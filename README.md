@@ -49,7 +49,7 @@
 | 王志忠 |  |
 | 任青荣 |  |
 | 禹远航 |  |
-
+| 李宁  | https://github.com/muming1013/RS-record |
 
 ### 2022级
 
